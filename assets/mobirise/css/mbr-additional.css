@@ -691,6 +691,10 @@ h6,
 #msg-box8-15 .mbr-section-title {
   font-size: 60px;
 }
+#header3-1n .mbr-section-title,
+#header3-1n .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-16 .mbr-section-title,
 #header3-16 .mbr-section-subtitle {
   text-align: center;
@@ -702,9 +706,20 @@ h6,
   font-size: 36px;
   color: #efefef;
 }
+#header3-16 SPAN {
+  font-size: 30px;
+}
 #content5-13 .mbr-section-title,
 #content5-13 p {
   color: #fff;
+}
+#msg-box8-1q .mbr-section-title,
+#msg-box8-1q p {
+  color: #fff;
+}
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;

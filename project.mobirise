@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akacan_thecruise_sunum",
-    "currentPage": "Logo2",
+    "currentPage": "Logo1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1409,7 +1409,7 @@
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/guclusaglam.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/guclusaglam.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1580,7 +1580,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-10.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-13.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1596,7 +1596,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo21.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo24.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1612,7 +1612,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo32.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo35.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

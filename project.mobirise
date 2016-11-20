@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akacan_thecruise_sunum",
-    "currentPage": "Logo1",
+    "currentPage": "Konsepttasarimlari",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -38,7 +38,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -267,11 +268,11 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-1k",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "5",
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bina1.JPG",
+            "bgImage": "@PROJECT_PATH@/assets/images/bina1_1.JPG",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -317,7 +318,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 3
       },
       "components": [
         {
@@ -420,9 +422,9 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/konforludinamik.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/konforludinamik-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -704,7 +706,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 4
       },
       "components": [
         {
@@ -807,9 +810,9 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/yenilikcimodern.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/yenilikcimodern-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1091,7 +1094,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 5
       },
       "components": [
         {
@@ -1197,9 +1201,9 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "3",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/IMG_7381_1.JPG",
+            "bgImage": "@PROJECT_PATH@/assets/images/bina1_2.JPG",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1259,8 +1263,8 @@
             "paddingTop": "4",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/IMG_7381.JPG",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bina1_3.JPG",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1304,7 +1308,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 2
       },
       "components": [
         {
@@ -1407,9 +1412,9 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/guclusaglam.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/guclusaglam-1.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1425,41 +1430,6 @@
           },
           "title": "GÜÇLÜ &amp; SAĞLAM",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1m",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/girneliman.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#63e98e",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
-          },
-          "title": "MODERN STYLES",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1615,7 +1585,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-115.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1631,7 +1601,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo210.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo216.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1647,7 +1617,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo311.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo317.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

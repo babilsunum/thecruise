@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akacan_thecruise_sunum",
-    "currentPage": "index.html",
+    "currentPage": "Logo2",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "true",
@@ -271,7 +271,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/IMG_7381_2.JPG",
+            "bgImage": "@PROJECT_PATH@/assets/images/bina1.JPG",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -422,7 +422,7 @@
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page7-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/konforludinamik.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -809,7 +809,7 @@
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page12-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/yenilikcimodern.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1409,7 +1409,7 @@
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/guclusaglam.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {

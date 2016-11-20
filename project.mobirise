@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akacan_thecruise_sunum",
-    "currentPage": "Konsepttasarimlari",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -272,7 +272,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bina1_1.JPG",
+            "bgImage": "@PROJECT_PATH@/assets/images/bina1_4.JPG",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -308,7 +308,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Babil Kulesi"
         }
       ]
     },
@@ -696,7 +696,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Babil Kulesi"
         }
       ]
     },
@@ -1084,7 +1084,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Babil Kulesi"
         }
       ]
     },
@@ -1298,7 +1298,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Babil Kulesi"
         }
       ]
     },
@@ -1585,7 +1585,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-115.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-118.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1601,7 +1601,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo216.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo219.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1617,7 +1617,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo317.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo320.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1686,7 +1686,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2016 Babil Kulesi"
         }
       ]
     }

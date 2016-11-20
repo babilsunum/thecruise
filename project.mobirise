@@ -21,12 +21,14 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "true",
     "publishType": "github",
-    "publishPath": "file:///C:/Users/MVG/Documents/Belgeler/Akacan_theCruise_logo/The_Cruise_web_sunum/mobirise"
+    "publishPath": "file:///C:/Users/MVG/Documents/Belgeler/Akacan_theCruise_logo/The_Cruise_web_sunum/mobirise",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -253,36 +255,39 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
-              "color": "#fff"
+              "color": "#000"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-5",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1k",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "5",
-            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/IMG_7381.JPG",
-            "bgColor": "#fff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/IMG_7381_2.JPG",
+            "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": "0.5",
-            "overlayColor": "#faaf40",
+            "overlayColor": "#2969b0",
             "showTitle": false,
-            "showCaption": false
+            "showText": false,
+            "showButton": false
           },
-          "title": "BACKGROUND IMAGE",
-          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -415,7 +420,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page7-2.jpg",
             "bgColor": "#F2F2F2",
@@ -802,7 +807,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page12-2.jpg",
             "bgColor": "#F2F2F2",
@@ -1192,7 +1197,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "3",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/IMG_7381_1.JPG",
             "bgColor": "#F2F2F2",
@@ -1254,7 +1259,7 @@
             "paddingTop": "4",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/IMG_7381.JPG",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -1402,7 +1407,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "5",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page2.jpg",
             "bgColor": "#F2F2F2",
@@ -1575,7 +1580,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-10.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1591,7 +1596,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo28.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo21.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1607,7 +1612,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo39.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo32.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

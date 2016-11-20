@@ -544,9 +544,12 @@ h6,
 #msg-box8-m p {
   color: #fff;
 }
-#msg-box8-r .mbr-section-title,
-#msg-box8-r p {
-  color: #fff;
+#header3-1c .mbr-section-title,
+#header3-1c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1c H3 {
+  color: #efefef;
 }
 #menu-t .hide-buttons .nav-btn {
   display: none !important;
@@ -613,9 +616,12 @@ h6,
 #msg-box8-u p {
   color: #fff;
 }
-#msg-box8-z .mbr-section-title,
-#msg-box8-z p {
-  color: #fff;
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1d H3 {
+  color: #efefef;
 }
 #menu-11 .hide-buttons .nav-btn {
   display: none !important;
@@ -765,7 +771,10 @@ h6,
 #msg-box8-e p {
   color: #fff;
 }
-#msg-box8-k .mbr-section-title,
-#msg-box8-k p {
-  color: #fff;
+#header3-1b .mbr-section-title,
+#header3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1b H3 {
+  color: #efefef;
 }

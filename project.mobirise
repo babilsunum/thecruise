@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akacan_thecruise_sunum",
-    "currentPage": "Konsepttasarimlari",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 43,
+    "uniqCompNum": 47,
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "true",
@@ -170,14 +170,15 @@
               "name": "pencil",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "LOGO TASARIMLARI",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"Logo_1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a> <a data-app-btn=\"true\" href=\"Logo3\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 3</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Logo_1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a> <a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a> <a data-app-btn=\"true\" href=\"Logo3\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 3</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -185,8 +186,9 @@
               "name": "pictures",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "KONSEPT TASARIMLARI",
@@ -262,7 +264,7 @@
           "_name": "content5",
           "_anchor": "content5-5",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": true,
@@ -273,7 +275,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.5",
             "overlayColor": "#faaf40",
             "showTitle": false,
@@ -549,7 +551,7 @@
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page2-2000x1376-451.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/the-cruise-logo-page2-2000x1376-452.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {

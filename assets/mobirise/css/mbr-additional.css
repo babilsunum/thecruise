@@ -709,17 +709,30 @@ h6,
 #header3-16 SPAN {
   font-size: 30px;
 }
-#content5-13 .mbr-section-title,
-#content5-13 p {
-  color: #fff;
+#features3-1w H4 {
+  color: #efefef;
 }
 #msg-box8-1q .mbr-section-title,
 #msg-box8-1q p {
   color: #fff;
 }
+#msg-box8-1q .mbr-section-title {
+  font-size: 36px;
+}
 #header3-1p .mbr-section-title,
 #header3-1p .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1p B {
+  font-size: 22px;
+  color: #232323;
+}
+#msg-box8-1y .mbr-section-title,
+#msg-box8-1y p {
+  color: #fff;
+}
+#msg-box8-1y .mbr-section-title {
+  font-size: 36px;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;

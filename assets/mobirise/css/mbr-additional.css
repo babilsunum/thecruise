@@ -724,6 +724,9 @@ h6,
   font-size: 22px;
   color: #232323;
 }
+#msg-box5-1r P {
+  text-align: center;
+}
 #msg-box8-1y .mbr-section-title,
 #msg-box8-1y p {
   color: #fff;
@@ -743,6 +746,9 @@ h6,
   font-size: 22px;
   color: #232323;
 }
+#msg-box5-23 P {
+  text-align: center;
+}
 #msg-box3-24 .mbr-section-title,
 #msg-box3-24 p {
   color: #000;
@@ -758,6 +764,9 @@ h6,
 #header3-26 SMALL {
   font-size: 22px;
   color: #232323;
+}
+#msg-box5-27 P {
+  text-align: center;
 }
 #menu-a .hide-buttons .nav-btn {
   display: none !important;

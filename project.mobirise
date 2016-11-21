@@ -24,7 +24,7 @@
     "uniqCompNum": 82,
     "versionPublish": "3.9.2",
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "publishType": "github",
     "publishPath": "file:///C:/Users/MVG/Documents/Belgeler/Akacan_theCruise_logo/The_Cruise_web_sunum/mobirise",
     "path": "@PROJECT_PATH@",
@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "features1",
@@ -1182,7 +1182,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -1266,7 +1266,7 @@
             "bgColor": "#303031",
             "showMeta": false
           },
-          "title": "<br><span style=\"font-weight: normal;\">Akdeniz'in en güzel adası Kıbrıs'ın yükselen değeri Girne'de muhteşem konumu ile bir yaşam alanı yükseliyor.&nbsp;<br></span><span style=\"font-weight: normal;\"><br></span><div><span style=\"font-weight: normal;\">Dünyanın dört bir yanını dolaşmış The Cruise, size deniz insanlarının kültürünü sunuyor.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Kuzeyin modern tasarımları, Karayiplerin hareketli yaşamı ve tabi ki Akdeniz'in sıcaklığı The Cruise'da biraraya geliyor.</span></div><br><div><br></div>",
+          "title": "<br><span style=\"font-weight: normal;\">Akdeniz'in en güzel adası Kıbrıs'ın yükselen değeri Girne'de muhteşem konumu ile bir yaşam alanı yükseliyor.&nbsp;<br></span><span style=\"font-weight: normal;\"><br></span><div><span style=\"font-weight: normal;\">Dünyanın dört bir yanını dolaşmış The Cruise, size deniz insanlarının kültürünü sunuyor.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Kuzeyin modern tasarımları, Asyanın mistik birikimi ve tabi ki Akdeniz'in sıcaklığı The Cruise'da biraraya geliyor.</span></div><br><div><span style=\"font-weight: normal;\"><br></span></div><br><div><span style=\"font-weight: normal;\">Tüm dünyayı gezen cruise, şimdi Girne'ye demir attı.</span></div><br><div><br></div>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1274,6 +1274,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "features3-1w",
           "_params": {
             "paddingTop": "1",
@@ -1380,12 +1385,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -1560,8 +1560,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "İskandinavya'nın doğasından kaynaklanan sert &nbsp;üslup, &nbsp;soğuk renklerle tüm evde hissediliyor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -1575,8 +1580,78 @@
             "timeout": 5,
             "slides": [
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ahr0chmlm0elmkylmkzzmy5hbwf6b25hd3muy29tjtjgymxvz2xvdmlulxvzzxitaw1hz2vzlxbyb2qlmkzuyxrpdmutcg9zdc1pbwctms0yotutntdlmwfinzblngyzna-2000x1328-34.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/houghton-071.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/174725660523115624-2000x2498-22.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f1968254e8d1372dbe95716c218516f9-2000x3000-80.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/aa2f0fb7f9804ce725c920eb79694a99-2000x3010-47.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8b1f240a6071971142a9db84e9b0866a-2000x2393-63.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1754,7 +1829,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/akdenizpalet-1.png",
+              "src": "@PROJECT_PATH@/assets/images/asyapalet-1400x1400-72.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1773,8 +1848,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Asya'nın kadim kültürü, &nbsp;yüzyılların birikimini tüm odalara yayıyor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -1788,8 +1868,64 @@
             "timeout": 5,
             "slides": [
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/c84421af9f587e28bc3058c573e4515c-2000x1517-54.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/7522868ac3d93486b3188cd8fb8c0cb1-2000x3000-20.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/af9ad60c285bbb6e7bda05bfbdb9ae4c-2000x2996-30.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/bf98e62612154ead1a2cc196b200d4a8-2000x3000-58.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/top-20-luxury-beds-for-bedroom-17-2000x1502-39.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1984,8 +2120,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text": "Tarih boyunca ticaret ve kendine has üretimiyle &nbsp; Akdeniz'in her tondan mavisi ferahlık veriyor.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -1999,8 +2140,78 @@
             "timeout": 5,
             "slides": [
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/34e46ac891e6435d6b7b908c685c1381-2000x2632-60.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/f214d14d61991ef720a2383d27a667bb-2000x2450-95.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/my-paradissi-bedroom-with-sea-view-house-and-leisure-2000x2578-11.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/acde50b26b5c8b818e3b29fefb37b995aebbda0b-2000x1333-89.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/c9a686f2bdfd517a94ef8acd53adf377-2000x2496-65.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
                 "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8600b6522f9f23928964b5ce3ef14259-2000x2828-80.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2325,7 +2536,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-16.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2341,7 +2552,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo210.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo27.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2357,7 +2568,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo311.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo38.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

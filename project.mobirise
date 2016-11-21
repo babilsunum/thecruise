@@ -1580,8 +1580,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/ahr0chmlm0elmkylmkzzmy5hbwf6b25hd3muy29tjtjgymxvz2xvdmlulxvzzxitaw1hz2vzlxbyb2qlmkzuyxrpdmutcg9zdc1pbwctms0yotutntdlmwfinzblngyzna-2000x1328-34.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/ahr0chmlm0elmkylmkzzmy5hbwf6b25hd3muy29tjtjgymxvz2xvdmlulxvzzxitaw1hz2vzlxbyb2qlmkzuyxrpdmutcg9zdc1pbwctms0yotutntdlmwfinzblngyzna-2000x1328-54.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1650,7 +1650,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/8b1f240a6071971142a9db84e9b0866a-2000x2393-63.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2182,8 +2182,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/acde50b26b5c8b818e3b29fefb37b995aebbda0b-2000x1333-89.png",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/acde50b26b5c8b818e3b29fefb37b995aebbda0b-2000x1333-38.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2210,7 +2210,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/8600b6522f9f23928964b5ce3ef14259-2000x2828-80.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2536,7 +2536,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-19.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2552,7 +2552,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo27.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo210.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2568,7 +2568,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo38.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo311.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

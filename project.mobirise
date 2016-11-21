@@ -1581,7 +1581,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/ahr0chmlm0elmkylmkzzmy5hbwf6b25hd3muy29tjtjgymxvz2xvdmlulxvzzxitaw1hz2vzlxbyb2qlmkzuyxrpdmutcg9zdc1pbwctms0yotutntdlmwfinzblngyzna-2000x1328-54.png",
+                "image": "@PROJECT_PATH@/assets/images/iskansalon1-2000x1328-82.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -2536,7 +2536,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-112.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2552,7 +2552,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo210.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo213.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2568,7 +2568,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo311.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo314.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

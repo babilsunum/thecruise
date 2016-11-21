@@ -731,6 +731,34 @@ h6,
 #msg-box8-1y .mbr-section-title {
   font-size: 36px;
 }
+#header3-22 .mbr-section-title,
+#header3-22 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-22 B {
+  font-size: 22px;
+  color: #232323;
+}
+#header3-22 SMALL {
+  font-size: 22px;
+  color: #232323;
+}
+#msg-box3-24 .mbr-section-title,
+#msg-box3-24 p {
+  color: #000;
+}
+#header3-26 .mbr-section-title,
+#header3-26 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-26 B {
+  font-size: 22px;
+  color: #232323;
+}
+#header3-26 SMALL {
+  font-size: 22px;
+  color: #232323;
+}
 #menu-a .hide-buttons .nav-btn {
   display: none !important;
 }

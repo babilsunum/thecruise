@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"logo1versiyonlar\">Logo1 versiyonlar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "features1",
@@ -406,7 +406,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"logo1versiyonlar\">Logo1 versiyonlar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -794,7 +794,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"logo1versiyonlar\">Logo1 versiyonlar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1182,7 +1182,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"logo1versiyonlar\">Logo1 versiyonlar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -2347,7 +2347,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"logo1versiyonlar\">Logo1 versiyonlar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2536,7 +2536,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2552,7 +2552,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo29.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2568,7 +2568,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo36.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo310.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2848,7 +2848,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Logo Tasarımları</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo1\">Versiyon 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"logo1versiyonlar\">Logo1 versiyonlar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo2\">Versiyon 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Logo3\">Versiyon 3</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Konsepttasarimlari\" aria-expanded=\"false\">Konsept Tasarımları</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2929,7 +2929,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2954,7 +2954,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup1-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup1-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2979,7 +2979,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup2-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup2-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3038,7 +3038,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-4.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3063,7 +3063,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup1-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup1-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3088,7 +3088,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup2-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup2-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3147,7 +3147,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3172,7 +3172,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup1-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup1-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3197,7 +3197,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup2-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup2-2.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3231,7 +3231,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/the-cruise-logo1-versiyonlar-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/the-cruise-logo1-versiyonlar-311.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -3279,7 +3279,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-14.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-18.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3295,7 +3295,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo29.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3311,7 +3311,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo36.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo310.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

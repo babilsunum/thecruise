@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akacan_thecruise_sunum",
-    "currentPage": "Konsepttasarimlari",
+    "currentPage": "logo1versiyonlar",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2536,7 +2536,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-10.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2552,7 +2552,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo21.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo25.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2568,7 +2568,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo32.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo36.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2929,7 +2929,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2954,7 +2954,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup1-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -2979,7 +2979,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v1-mockup2-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3038,7 +3038,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-3.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3063,7 +3063,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup1-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3088,7 +3088,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v2-mockup2-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3147,7 +3147,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3172,7 +3172,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup1-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3197,7 +3197,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/the-cruise-logo1-v3-mockup2-1.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -3231,7 +3231,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/the-cruise-logo1-versiyonlar-33.jpg",
+                "image": "@PROJECT_PATH@/assets/images/the-cruise-logo1-versiyonlar-37.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -3279,7 +3279,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-10.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3295,7 +3295,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Logo1\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo21.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo25.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3311,7 +3311,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Logo2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VERSİYON 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo32.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo36.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
